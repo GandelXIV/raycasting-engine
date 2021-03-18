@@ -1,0 +1,1 @@
+char frame[screenWidth][screenHeight];
